@@ -1,0 +1,174 @@
+#principal{
+	width: auto;overflow: hidden; 
+	height: auto;overflow: hidden;
+	border: 1px solid #000;
+	margin: auto;
+	background-color: yellow;
+	padding: 10px 20px 10px 20px;
+	font-family: all;
+}
+
+#categorias{
+	width: auto; overflow: hidden;
+	height: auto;overflow: hidden;
+	border: 1px solid;
+	margin-top: 10px;
+	align-content: center;
+	padding: 10px 20px 10px;
+	background-image: url(img/po.jpg);
+}
+
+
+.ejercicio2{
+
+	width: 1160px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 0px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+	color: black;
+
+}
+
+
+
+.que_es{
+	width: 700px;
+	height: auto; overflow: hidden;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+
+}
+
+
+.imagen{
+
+	width: 400px;
+	height: 135px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-right:0px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+}
+
+.video{
+	width: 700px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-right:20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+}
+
+.ejercicio{
+
+	width: 400px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 0px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+
+}
+
+
+
+.que_es1{
+	width: 700px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+
+}
+
+
+.imagen1{
+
+	width: 400px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-right:0px;
+	margin-left: 20px;
+background-image: url(img/po.jpg);
+}
+
+.video1{
+	width: 700px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-right:20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+}
+
+.ejercicio1{
+
+	width: 400px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 0px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+
+}
+
+.video2{
+width: 1108px;
+	height: 250px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 40px;
+	margin-top: 20px;
+	margin-left: 40px;
+	background-image: url(img/po.jpg);	
+}
+

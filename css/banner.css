@@ -1,0 +1,27 @@
+.banner{
+	width: 1207px;
+	height: 150px;
+	border: 1px solid #ccc;
+	margin: auto;
+
+	background-image: url(C:\Users\LUIS ANGEL\Desktop\PROYECTO\img\anuncio1.jpg);
+	background-size: 100% 100%;
+	animation-name: banner;
+	animation-duration: 10s;
+	animation-iteration-count: infinite; 
+
+
+}
+
+@keyframes banner{
+	0%, 30%{
+		background-image: url("C:\xampp\htdocs\PROYECTO\img\anuncio1.jpg");
+	}
+
+	35%, 65%{
+		background-image: url("C:\xampp\htdocs\PROYECTO\img\anuncio2.jpg");
+	}
+	70%, 100%{
+		background-image: url("C:\xampp\htdocs\PROYECTO\img\anuncio3.jpg");
+	}
+}

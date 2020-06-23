@@ -1,0 +1,81 @@
+#principal{
+	width: auto;overflow: hidden; 
+	height: auto;overflow: hidden;
+	border: 1px solid #000;
+	margin: auto;
+	background-color: yellow;
+	padding: 10px 20px 10px 20px;
+}
+
+#categorias{
+	width: auto; overflow: hidden;
+	height: 580px;
+	border: 1px solid;
+	margin-top: 10px;
+	align-content: center;
+	padding: 10px 20px 10px;
+	background-image: url(img/po.jpg);
+}
+
+.que_es{
+	width: 700px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+
+}
+
+
+.imagen{
+
+	width: 400px;
+	height: 200px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-right:10px;
+background-image: url(img/po.jpg);
+}
+
+.video{
+	width: 400px;
+	height: 250px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-top: 20px;
+	margin-right:10px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+}
+
+.ejercicio{
+	width: 690px;
+	height: 250px;
+	border: 1px solid #000000;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	align-content: center;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-image: url(img/po.jpg);
+
+}
+
+input{
+	align-items: left;
+}
+
+
